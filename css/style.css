@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&display=swap');
+
+body {
+	background-color: #ececec;
+}
+
+.title-c {
+	background-color: #2197d8;
+	border-bottom: #1d7ebe solid 7px;
+	border-top: #1d7ebe solid 7px;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Almarai', sans-serif;
+	color: white;
+
+}
+.title-p {
+	background-color: #114f78;
+	border-bottom: #084771 solid 7px;
+	border-top: #084771 solid 7px;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Almarai', sans-serif;
+	color: white;
+
+}
+
+.title-p {
+	background-color: #114f78;
+	border-bottom: #084771 solid 7px;
+	border-top: #084771 solid 7px;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Almarai', sans-serif;
+	color: white;
+
+	
+}
+
+.title {
+	background-color: #e8a607;
+	border-bottom: #c68c00 solid 7px;
+	border-top: #c68c00 solid 7px;
+	padding: 10px;
+	text-align: center;
+	font-family: 'Almarai', sans-serif;
+	color: white;
+	
+	}
+.row {
+	margin: 0 auto;
+}
+
+
+.card {
+	font-family: 'Almarai', sans-serif;
+
+}
+
+
+img {
+	margin-right: 10px;
+}
+
+.btn {
+	margin-top: 5px;
+}
+
+
+
+
+
+h5 {
+	margin-top: -8px;
+	
+}
+
+
+.nav {
+	margin-top: -8px;
+
+}
+.btn-custom {
+	margin-top: -0px;
+	width: 180px;
+	
+}
+
+
+.options {
+	background-color: #000000b5;
+	margin: 0 auto;
+	width: 400px;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-image: url("https://www.bibalex.org/SCIplanet/Attachments/Article/MediumImage/GzIGNj6VYx_20180719142029623.jpg")
+}
+
+.homepageoptions {
+	margin: 0 auto;
+		margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	
+}
+
+
+.info {
+	background-color: darkgoldenrod;
+	padding: 10px;
+	margin-bottom: 0 auto;
+		font-family: 'Almarai', sans-serif;
+
+}
+.btn-secondary {
+			font-family: 'Almarai', sans-serif;
+
+}
+
+
+.info p {
+	color: white;
+	
+}
+
+.info hr {
+	background-color: white;
+}
+
+.info-p hr {
+	background-color: white;
+}
+
+.info-p {
+	background-color: #26628b;
+	padding: 10px;
+	margin-bottom: 0 auto;
+		font-family: 'Almarai', sans-serif;
+
+}
+
+.info-p p {
+	color: white;
+}
+
+
+
+
+
+
+
+
+.info-c hr {
+	background-color: white;
+}
+
+.info-c {
+	background-color: #2197d8;
+	padding: 10px;
+	margin-bottom: 0 auto;
+		font-family: 'Almarai', sans-serif;
+
+}
+
+.info-c p {
+	color: white;
+}
+
+.space {
+	margin: 0 3px;
+}
+ .card-body {
+    padding-right: 115px;
+  }
+
+@media screen and (max-width: 386px) {
+ .card-body {
+    padding-right: 115px;
+  }
+}
